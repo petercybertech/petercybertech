@@ -1,16 +1,45 @@
-## Hi there 👋
+# Peter Oluwalana 💻
 
-<!--
-**petercybertech/petercybertech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Support • Cybersecurity • Networking • Innovation
 
-Here are some ideas to get you started:
+I am a hands-on IT Support and Technology enthusiast with practical experience in laptop repair, system troubleshooting, Windows installation, and technical support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building strong skills in cybersecurity, networking, and system administration while exploring innovation in technology and secure digital systems.
+
+## Skills
+- IT Support & Technical Troubleshooting  
+- Laptop Repair & Maintenance  
+- Windows Installation & Configuration  
+- Hardware Diagnostics  
+- Networking Basics (Cisco Networking Academy)  
+- Linux Command Line  
+- Wireshark Packet Analysis  
+- Cybersecurity Fundamentals  
+- HTML & CSS Web Development  
+
+## Learning & Focus Areas
+- Cybersecurity (Threat analysis, network security, system protection)  
+- Networking (Cisco certified fundamentals)  
+- System Administration  
+- Hardware & Software Troubleshooting  
+- Technology Innovation & Problem Solving  
+
+## Projects & Practice
+- Laptop repair and troubleshooting practice  
+- Network simulation using Packet Tracer  
+- Wireshark packet analysis practice  
+- Linux command-line exercises  
+- HTML & CSS web development projects  
+
+## Innovation Interest
+I am passionate about building and understanding secure digital systems, including ideas around cloud-based applications, secure data access systems, and AI-assisted technology solutions.
+
+## Certifications
+- Cisco Networking Academy (Networking Fundamentals)  
+- Cybersecurity Certification (In Progress)
+
+## Location
+Ibadan, Nigeria
+
+## Career Goal
+To develop into a professional in IT Support, Cybersecurity, and Networking while building innovative solutions and continuously improving technical expertise.
